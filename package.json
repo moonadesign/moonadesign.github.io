@@ -1,5 +1,5 @@
 {
-  "name": "nothing-static",
+  "name": "moonadesign.github.io",
   "version": "1.0.0",
   "scripts": {
     "build": "node build",
